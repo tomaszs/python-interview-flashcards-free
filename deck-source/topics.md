@@ -16,5 +16,5 @@ Category index for SEO and navigation. Card text lives in the `.apkg` release on
 ## Also covers
 
 - Interview-style questions and structured answers
-- Production and modern tooling (2026 edition)
+- Production and modern tooling
 - Common pitfalls and follow-up angles

@@ -180,7 +180,6 @@ If you use Anki on more than one device, you can use [AnkiWeb sync](https://docs
 | --- | --- |
 | **Cards** | 100 interview questions with detailed answers |
 | **Audience** | software engineer |
-| **Edition** | 2026 |
 | **Topics** | Python 3.12+, typing, asyncio, data structures, OOP, and production Python |
 | **Deck file** | `Python_Interview_2026.apkg` |
 
@@ -250,6 +249,7 @@ Releases are tagged by year (e.g. `v2026.1`). Watch this repo for new editions.
 
 Part of the **Summon The JSON** interview flashcard series:
 
+- **[Full deck catalog](https://github.com/tomaszs/flashcards)** · all free interview flashcard repos by topic
 - [Summon The JSON](https://summonthejson.com) · physical and printable decks
 - GitHub: search [`tomaszs interview-flashcards-free`](https://github.com/search?q=tomaszs+interview-flashcards-free&type=repositories) for related repos
 - Topics: python, software engineering interview, anki interview prep
@@ -287,7 +287,7 @@ Commercial, derivative, organizational, or AI-related licenses start at **USD $5
 
 ## Changelog
 
-### v2026.1 (2026)
+### v2026.1
 
 - Initial public release: 100 cards for Python interviews
-- Edition aligned with 2026 hiring and tooling
+- Structured Q&A aligned with modern hiring topics
