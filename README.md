@@ -1,6 +1,6 @@
 # Python Interview Flashcards Free
 
-Free **python interview flashcards free** Anki deck for **software engineer** interviews. **100 cards** covering Python 3.12+, typing, asyncio, data structures, OOP, and production Python.
+Free **Python interview flashcards** for Anki. **100 cards** for **software engineer** interviews covering Python 3.12+, typing, asyncio, data structures, OOP, and production Python.
 
 Download the `.apkg` file and import it into [Anki](https://apps.ankiweb.net/) on desktop or mobile. No account required.
 
