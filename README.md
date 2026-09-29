@@ -3,14 +3,13 @@
 [![Anki](https://img.shields.io/badge/Anki-deck-blue?style=flat-square)](https://apps.ankiweb.net/)
 [![Cards](https://img.shields.io/badge/cards-100-green?style=flat-square)](#deck-contents)
 [![License](https://img.shields.io/badge/license-personal%20use%20only-red?style=flat-square)](LICENSE)
-[![Year](https://img.shields.io/badge/edition-2026-lightgrey?style=flat-square)](#changelog)
-[![Download .apkg](https://img.shields.io/badge/Download-.apkg-2563eb?style=for-the-badge)](https://github.com/tomaszs/python-interview-flashcards-free/releases/download/v2026.1/Python_Interview_2026.apkg)
+[![Download](https://img.shields.io/badge/download-.apkg-2563eb?style=flat-square)](https://github.com/tomaszs/python-interview-flashcards-free/releases/download/v2026.1/Python_Interview_2026.apkg)
 
 ![Python Interview Flashcards Free](assets/readme-hero.png)
 
-Free **Python interview flashcards** for Anki: **100 cards** for **software engineer** interviews covering Python 3.12+, typing, asyncio, data structures, OOP, and production Python.
+**Walk into your Python interview prepared.** 100 curated questions with clear, structured answers you can recall under pressure. Study on your phone, tablet, or computer.
 
-**[Download `Python_Interview_2026.apkg`](https://github.com/tomaszs/python-interview-flashcards-free/releases/download/v2026.1/Python_Interview_2026.apkg)** · no GitHub account required · works on phone, tablet, or computer
+**[Download `Python_Interview_2026.apkg`](https://github.com/tomaszs/python-interview-flashcards-free/releases/download/v2026.1/Python_Interview_2026.apkg)** · free for personal study · no GitHub account required
 
 ## Table of contents
 
@@ -25,8 +24,9 @@ Free **Python interview flashcards** for Anki: **100 cards** for **software engi
 - [How to study](#how-to-study)
 - [Card format](#card-format)
 - [FAQ](#faq)
+- [About the creator](#about-the-creator)
+- [About Summon The JSON](#about-summon-the-json)
 - [More decks](#more-decks)
-- [Author](#author)
 - [License](#license)
 - [Changelog](#changelog)
 
@@ -61,7 +61,7 @@ A flashcard is a simple question on one side and the answer on the other. You **
 
 ### What is Anki?
 
-[Anki](https://apps.ankiweb.net/) is a free flashcard app (with paid mobile apps) built around **spaced repetition**. Instead of cramming everything in one sitting, Anki schedules each card based on how well you know it:
+[Anki](https://apps.ankiweb.net/) is a flashcard app built around **spaced repetition**. Instead of cramming everything in one sitting, Anki schedules each card based on how well you know it:
 
 - Cards you find **easy** appear less often.
 - Cards you **miss** come back sooner.
@@ -103,7 +103,7 @@ Flashcards complement AI rather than replace them:
 | Risk of shallow "I saw this in ChatGPT" familiarity | Builds **durable memory** for whiteboard and verbal rounds |
 | Great for exploring new topics | Great for **locking in** what you must explain clearly |
 
-Use AI to explore and clarify. Use Anki to **remember, retrieve, and perform** when it counts. In 2026, candidates who combine both tend to interview more confidently than those who only consume generated answers.
+Use AI to explore and clarify. Use Anki to **remember, retrieve, and perform** when it counts. Candidates who combine both tend to interview more confidently than those who only consume generated answers.
 
 ## Anki apps by platform
 
@@ -230,9 +230,20 @@ Part of the **Summon The JSON** interview flashcard series:
 
 If this deck helped you, **star the repo** so others can find it.
 
-## Author
+## About the creator
 
-**Tom Smykowski** · [Summon The JSON](https://summonthejson.com)
+**Tom Smykowski** is a software engineer with 20+ years in programming and mentoring. He is an awarded tech editor, in the top 2% on [Stack Overflow](https://stackoverflow.com/users/936078/tomasz-smykowski), and has reached millions of readers through technical writing.
+
+Tom builds interview flashcards to help developers **explain technical topics clearly under pressure**, not just recognize buzzwords. This deck is part of that work.
+
+- Personal site: [tomasz-smykowski.com](https://tomasz-smykowski.com)
+- Publisher: [Summon The JSON](https://summonthejson.com)
+
+## About Summon The JSON
+
+[Summon The JSON](https://summonthejson.com) is a learning brand for developers. It combines practical study tools with programming education: **physical flashcards**, printable decks, and free Anki decks like this one.
+
+The goal is simple: structured prep that fits real interview rooms. Questions you can practice daily, answers you can deliver out loud, and topics aligned with what hiring teams actually ask about python.
 
 ## License
 
