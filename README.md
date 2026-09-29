@@ -80,14 +80,39 @@ You spend more time on weak spots and less on what you already know.
 
 The result: steady progress with less total study time than passive re-reading.
 
-### Why flashcards work for interview prep
+### Why flashcards are great for tech interviews
 
-Technical interviews reward **fast, accurate recall** under pressure. Flashcards help you:
+Tech interviews are not only coding puzzles. You also need to **explain how things work**, compare trade-offs, and handle follow-up questions without freezing. Flashcards train exactly that skill.
 
-- **Explain concepts out loud** without opening notes.
-- **Spot gaps early** (typing, concurrency, system trade-offs) before the real interview.
-- **Build depth** on answers, pitfalls, and follow-ups, not just buzzwords.
-- **Review on a schedule** so topics stay fresh without last-minute cramming.
+**They match how interviews actually feel**
+
+- An interviewer asks one focused question. You answer from memory. A flashcard is the same loop.
+- You get immediate feedback on the back: did you miss a pitfall, a trade-off, or a follow-up angle?
+- Repeated practice turns shaky explanations into answers you can deliver calmly.
+
+**They fill gaps LeetCode does not cover**
+
+- Coding practice builds implementation skill. Flashcards build **verbal depth**: language internals, architecture choices, debugging, production concerns.
+- For **Python** roles, interviewers often probe fundamentals (how it works, when to use it, what breaks in production) even when there is no whiteboard task.
+- This deck covers those talking points in a format you can review daily.
+
+**They turn passive reading into active recall**
+
+- Reading documentation or blog posts feels productive, but recognition is not recall.
+- Flashcards force you to **produce** an answer before you see the solution.
+- That difference shows up in phone screens, panel rounds, and "explain this to me" moments.
+
+**They help you study in small sessions**
+
+- 10 minutes on the bus, between meetings, or before bed adds up.
+- Spaced repetition resurfaces weak cards automatically, so you do not need one giant cram session the night before.
+- You can keep **Python** topics warm for weeks without burnout.
+
+**They build confidence for follow-ups**
+
+- Strong candidates do not stop at a one-line answer. They mention edge cases, alternatives, and real-world constraints.
+- Each card in this deck is structured to support that: short answer first, then depth, pitfalls, and likely follow-ups.
+- The goal is not memorizing scripts. It is knowing your material well enough to adapt when the interviewer pushes back.
 
 This deck is built for that: one interview question per card, structured answers on the back.
 
