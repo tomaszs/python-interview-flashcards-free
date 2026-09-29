@@ -17,6 +17,7 @@ Free **Python interview flashcards** for Anki: **100 cards** for **software engi
 - [Get started](#get-started)
 - [Download](#download)
 - [Who this is for](#who-this-is-for)
+- [Why Anki and flashcards](#why-anki-and-flashcards)
 - [Anki apps by platform](#anki-apps-by-platform)
 - [Install on your device](#install-on-your-device)
 - [Deck contents](#deck-contents)
@@ -51,6 +52,58 @@ Free **Python interview flashcards** for Anki: **100 cards** for **software engi
 - **Software Engineer** candidates who want structured Q&A, not random trivia
 - Anki users who prefer **spaced repetition** for interview prep
 - Anyone searching for **python interview flashcards free** or a **python anki deck**
+
+## Why Anki and flashcards
+
+### What are flashcards?
+
+A flashcard is a simple question on one side and the answer on the other. You **try to recall the answer from memory** before you flip the card. That act of retrieval is called **active recall**, and it is one of the most effective ways to move knowledge from short-term reading into long-term memory.
+
+### What is Anki?
+
+[Anki](https://apps.ankiweb.net/) is a free flashcard app (with paid mobile apps) built around **spaced repetition**. Instead of cramming everything in one sitting, Anki schedules each card based on how well you know it:
+
+- Cards you find **easy** appear less often.
+- Cards you **miss** come back sooner.
+- You study a **small daily queue** instead of re-reading the full deck every time.
+
+You spend more time on weak spots and less on what you already know.
+
+### How spaced repetition works
+
+1. Anki shows you a card.
+2. You recall the answer, then reveal the back.
+3. You rate how hard it was (for example: Again, Hard, Good, Easy).
+4. Anki calculates the **next review date** for that card.
+5. Over days and weeks, well-known cards fade out while difficult ones stay in rotation.
+
+The result: steady progress with less total study time than passive re-reading.
+
+### Why flashcards work for interview prep
+
+Technical interviews reward **fast, accurate recall** under pressure. Flashcards help you:
+
+- **Explain concepts out loud** without opening notes.
+- **Spot gaps early** (typing, concurrency, system trade-offs) before the real interview.
+- **Build depth** on answers, pitfalls, and follow-ups, not just buzzwords.
+- **Review on a schedule** so topics stay fresh without last-minute cramming.
+
+This deck is built for that: one interview question per card, structured answers on the back.
+
+### Why flashcards still matter in the AI era
+
+AI can summarize docs, generate examples, and answer questions on demand. That is useful, but interviews still test **what you can produce from your own head** in real time.
+
+Flashcards complement AI rather than replace them:
+
+| AI alone | Flashcards + Anki |
+| --- | --- |
+| Easy to **read** an explanation and feel you understand it | Forces **recall** without hints |
+| Answers fade if you do not revisit the topic | **Spaced repetition** brings weak cards back automatically |
+| Risk of shallow "I saw this in ChatGPT" familiarity | Builds **durable memory** for whiteboard and verbal rounds |
+| Great for exploring new topics | Great for **locking in** what you must explain clearly |
+
+Use AI to explore and clarify. Use Anki to **remember, retrieve, and perform** when it counts. In 2026, candidates who combine both tend to interview more confidently than those who only consume generated answers.
 
 ## Anki apps by platform
 
