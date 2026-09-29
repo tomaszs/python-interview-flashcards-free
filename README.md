@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/badge/license-personal%20use%20only-red?style=flat-square)](LICENSE)
 [![Download](https://img.shields.io/badge/download-.apkg-2563eb?style=flat-square)](https://github.com/tomaszs/python-interview-flashcards-free/releases/download/v2026.1/Python_Interview_2026.apkg)
 
-![Python Interview Flashcards Free](assets/readme-hero.png)
+![Python Interview Flashcards Free](assets/hero-ad-white.png)
 
 **Walk into your Python interview prepared.** 100 curated questions with clear, structured answers you can recall under pressure. Study on your phone, tablet, or computer.
 
