@@ -1,12 +1,199 @@
-Creative Commons Attribution 4.0 International
+Summon The JSON Personal Study License v1.0 (STJ-PSL-1.0)
 
-Copyright (c) 2026 Tom Smykowski
+Copyright (c) 2026 Tom Smykowski (Summon The JSON). All rights reserved.
 
-You are free to:
-- Share: copy and redistribute the material in any medium or format
-- Adapt: remix, transform, and build upon the material for any purpose, even commercially
+IMPORTANT: READ CAREFULLY BEFORE DOWNLOADING, IMPORTING, ACCESSING, OR USING
+THIS DECK OR ANY PART OF IT. BY OBTAINING OR USING THE DECK, YOU AGREE TO
+THESE TERMS. IF YOU DO NOT AGREE, DO NOT DOWNLOAD, COPY, IMPORT, OR USE THE
+DECK.
 
-Under the following terms:
-- Attribution: You must give appropriate credit, provide a link to the license, and indicate if changes were made.
 
-Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
+1. DEFINITIONS
+
+1.1 "Deck" means the Anki deck package (.apkg), card templates, card text,
+metadata, media, and all related files distributed from this repository or
+its releases, including any updates.
+
+1.2 "Content" means all text, questions, answers, explanations, formatting,
+structure, ordering, tags, and expressive elements in the Deck or this
+repository.
+
+1.3 "Personal Use" means study by a single natural person for their own
+non-commercial interview preparation or self-education. Personal Use does not
+include use by or for any company, agency, bootcamp, school, training
+provider, publisher, or other organization, even if no fee is charged.
+
+1.4 "AI System" means any machine learning model, large language model,
+embedding model, retrieval system, automated agent, classifier, recommender,
+speech system, or other software that learns from, is trained on, fine-tuned
+with, distilled from, evaluated on, or generates output based on data,
+including synthetic or extracted data.
+
+1.5 "Prohibited Use" includes any use not expressly allowed in Section 2.
+
+
+2. LICENSE GRANT (PERSONAL USE ONLY)
+
+Subject to your ongoing compliance with this Agreement, Tom Smykowski grants you a
+limited, revocable, non-exclusive, non-transferable, non-sublicensable license
+to:
+
+(a) download one copy of the Deck for Personal Use;
+(b) import that copy into Anki on devices you personally control; and
+(c) study the Content for Personal Use only.
+
+No other rights are granted. All rights not expressly granted are reserved.
+
+
+3. PROHIBITED USES
+
+You may NOT, and may NOT permit any third party to:
+
+3.1 Commercial use. Use the Deck or Content for any commercial purpose,
+including paid courses, coaching, hiring products, SaaS, consulting,
+sponsorship, advertising, or any activity intended to generate revenue,
+goodwill, or business advantage.
+
+3.2 Redistribution. Copy, publish, share, upload, post, transmit, distribute,
+sell, lend, rent, sublicense, or make the Deck or Content available to any
+other person or platform, including file-sharing sites, mirrors, torrents,
+cloud folders, email attachments, or "free deck" collections.
+
+3.3 Derivative works. Modify, adapt, translate, abridge, expand, reorganize,
+merge, or create derivative works from the Deck or Content, including new
+decks, card sets, books, cheat sheets, blog posts, videos, slides, or study
+guides that reproduce or substitute for the Content.
+
+3.4 Extraction and scraping. Extract, scrape, harvest, bulk-export, or
+systematically copy questions, answers, or card pairs, whether manually,
+programmatically, or through Anki add-ons, APIs, or database access.
+
+3.5 AI and machine processing (strict prohibition). Use the Deck or Content,
+in whole or in part, directly or indirectly, for any purpose involving AI
+Systems or automated processing outside normal personal study in Anki,
+including without limitation:
+
+(a) training, fine-tuning, distillation, reinforcement learning, or evaluation
+    of AI Systems;
+(b) creating embeddings, vector indexes, datasets, corpora, or training examples;
+(c) retrieval-augmented generation (RAG), prompt libraries, or agent memory
+    derived from the Content;
+(d) automated summarization, paraphrasing, translation, or question generation
+    based on the Content;
+(e) using AI Systems to reproduce, replace, or compete with the Deck; or
+(f) any research, benchmarking, or product development involving the Content
+    and AI Systems.
+
+3.6 Removal of notices. Remove or obscure copyright, authorship, publisher,
+or license notices.
+
+3.7 Circumvention. Circumvent technical measures or Anki export controls to
+obtain Content for prohibited uses.
+
+
+4. COMMERCIAL, DERIVATIVE, AND SPECIAL LICENSES
+
+4.1 Any use beyond Personal Use requires a separate written license from
+Tom Smykowski or Summon The JSON, including commercial use, organizational use,
+redistribution, republication, derivative works, bulk extraction, and any
+AI-related use described in Section 3.5.
+
+4.2 The minimum fee for any such license is USD $5000
+(five thousand United States dollars) per use case, territory, and format,
+unless a different fee is stated in a signed agreement. Tom Smykowski may refuse
+any request for any reason.
+
+4.3 No implied license arises from inquiry, evaluation, or negotiation. Only a
+signed written agreement signed by Tom Smykowski or an authorized representative of
+Summon The JSON grants additional rights.
+
+4.4 Licensing inquiries: https://summonthejson.com/contact
+
+
+5. OWNERSHIP
+
+The Deck and Content are proprietary to Tom Smykowski and Summon The JSON. This
+Agreement does not transfer ownership. Trademarks, branding, and trade dress
+remain the property of their respective owners.
+
+
+6. THIRD-PARTY PLATFORM TERMS
+
+Your use of GitHub, Anki, AnkiWeb, or other platforms is also subject to
+their terms. If those terms conflict with this Agreement regarding the
+Content, this Agreement controls as between you and Tom Smykowski.
+
+
+7. UPDATES
+
+Updated Deck versions may be offered at Tom Smykowski's discretion. This Agreement
+applies to all versions unless superseded by a later license included with a
+specific release.
+
+
+8. TERMINATION
+
+This license terminates automatically if you breach any term. Upon
+termination, you must stop all use and delete all copies of the Deck and
+Content in your possession or control. Sections 3, 4, 5, 9, 10, and 11 survive
+termination.
+
+
+9. DISCLAIMER
+
+THE DECK AND CONTENT ARE PROVIDED "AS IS" WITHOUT WARRANTIES OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE, ACCURACY, OR NON-INFRINGEMENT. STUDY MATERIALS MAY CONTAIN ERRORS.
+YOU USE THE DECK AT YOUR OWN RISK.
+
+
+10. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, Tom Smykowski AND Summon The JSON
+SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR
+PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS, DATA, GOODWILL, OR OPPORTUNITY,
+ARISING FROM OR RELATED TO THE DECK OR THIS AGREEMENT.
+
+
+11. ENFORCEMENT
+
+11.1 Unauthorized use may cause irreparable harm. Tom Smykowski may seek
+injunctive relief, damages, and any other remedies available under applicable
+law, in addition to license fees under Section 4.
+
+11.2 You agree that monetary damages alone may be insufficient and that
+equitable relief is appropriate for breaches involving copying, redistribution,
+derivatives, or AI-related uses.
+
+11.3 If you are subject to consumer protection laws that limit certain
+provisions, those laws apply only to the extent required and do not expand
+the Personal Use license beyond Section 2.
+
+
+12. GENERAL
+
+12.1 Entire agreement. This document is the entire agreement regarding the
+Deck and supersedes prior understandings on this subject.
+
+12.2 Severability. If any provision is unenforceable, the remaining provisions
+remain in effect.
+
+12.3 No waiver. Failure to enforce a provision is not a waiver.
+
+12.4 Assignment. You may not assign this Agreement. Tom Smykowski may assign it in
+connection with a business transfer.
+
+12.5 Governing law. This Agreement is governed by the laws of Poland,
+excluding conflict-of-law rules, without regard to the United Nations
+Convention on Contracts for the International Sale of Goods.
+
+12.6 Venue. Exclusive jurisdiction for disputes shall lie with the courts of
+Bydgoszcz, Poland, subject to mandatory consumer jurisdiction rules where
+applicable.
+
+
+Tom Smykowski
+Summon The JSON
+https://summonthejson.com/contact
+
+License identifier: STJ-PSL-1.0
