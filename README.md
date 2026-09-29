@@ -4,17 +4,21 @@
 [![Cards](https://img.shields.io/badge/cards-100-green?style=flat-square)](#deck-contents)
 [![License](https://img.shields.io/badge/license-personal%20use%20only-red?style=flat-square)](LICENSE)
 [![Year](https://img.shields.io/badge/edition-2026-lightgrey?style=flat-square)](#changelog)
+[![Download .apkg](https://img.shields.io/badge/Download-.apkg-2563eb?style=for-the-badge)](https://github.com/tomaszs/python-interview-flashcards-free/releases/download/v2026.1/Python_Interview_2026.apkg)
+
+![Python Interview Flashcards Free](assets/readme-hero.png)
 
 Free **Python interview flashcards** for Anki: **100 cards** for **software engineer** interviews covering Python 3.12+, typing, asyncio, data structures, OOP, and production Python.
 
-Download the `.apkg` file and import it into [Anki](https://apps.ankiweb.net/) on desktop or mobile. **No GitHub account required** to download from [Releases](https://github.com/tomaszs/python-interview-flashcards-free/releases/latest).
+**[Download `Python_Interview_2026.apkg`](https://github.com/tomaszs/python-interview-flashcards-free/releases/download/v2026.1/Python_Interview_2026.apkg)** · no GitHub account required · works on phone, tablet, or computer
 
 ## Table of contents
 
+- [Get started](#get-started)
 - [Download](#download)
 - [Who this is for](#who-this-is-for)
-- [Requirements](#requirements)
-- [Install in Anki](#install-in-anki)
+- [Anki apps by platform](#anki-apps-by-platform)
+- [Install on your device](#install-on-your-device)
 - [Deck contents](#deck-contents)
 - [Sample questions](#sample-questions)
 - [How to study](#how-to-study)
@@ -25,6 +29,12 @@ Download the `.apkg` file and import it into [Anki](https://apps.ankiweb.net/) o
 - [License](#license)
 - [Changelog](#changelog)
 
+## Get started
+
+1. **Install Anki** for your device ([see links below](#anki-apps-by-platform)).
+2. **[Download `Python_Interview_2026.apkg`](https://github.com/tomaszs/python-interview-flashcards-free/releases/download/v2026.1/Python_Interview_2026.apkg)** from the latest release.
+3. **Import** the file in Anki on the same device and start studying.
+
 ## Download
 
 | | |
@@ -33,8 +43,7 @@ Download the `.apkg` file and import it into [Anki](https://apps.ankiweb.net/) o
 | **Direct .apkg** | [Python_Interview_2026.apkg](https://github.com/tomaszs/python-interview-flashcards-free/releases/download/v2026.1/Python_Interview_2026.apkg) |
 | **File size** | ~1 MB (varies by deck) |
 | **Cost** | Free for personal study |
-
-> **Tip:** On mobile, download the `.apkg` first, then open it with Anki or use Anki's import flow.
+| **Account** | No GitHub account required |
 
 ## Who this is for
 
@@ -43,25 +52,48 @@ Download the `.apkg` file and import it into [Anki](https://apps.ankiweb.net/) o
 - Anki users who prefer **spaced repetition** for interview prep
 - Anyone searching for **python interview flashcards free** or a **python anki deck**
 
-## Requirements
+## Anki apps by platform
 
-- [Anki](https://apps.ankiweb.net/) **2.1.49+** (desktop recommended for first import)
-- AnkiMobile / AnkiDroid for studying on the go (after import on desktop or via sync)
-- No account required to download from GitHub Releases
+Install the official Anki app for the device you want to study on, then import the `.apkg` on that same device.
 
-## Install in Anki
+| Platform | App | Get it |
+| --- | --- | --- |
+| **Windows** | Anki | [Download Anki](https://apps.ankiweb.net/) |
+| **macOS** | Anki | [Download Anki](https://apps.ankiweb.net/) |
+| **Linux** | Anki | [Download Anki](https://apps.ankiweb.net/) |
+| **iPhone / iPad** | AnkiMobile | [App Store](https://apps.apple.com/app/ankimobile-flashcards/id373493387) |
+| **Android** | AnkiDroid | [Google Play](https://play.google.com/store/apps/details?id=com.ichi2.anki) |
 
-1. Download [`Python_Interview_2026.apkg`](https://github.com/tomaszs/python-interview-flashcards-free/releases/download/v2026.1/Python_Interview_2026.apkg) from the latest release.
-2. Open Anki on desktop.
-3. **File → Import** and select the downloaded file.
-4. Confirm the deck name **Python Interview 2026**.
-5. Start with the intro card, then work through questions. **Flag** cards you miss.
+Desktop Anki **2.1.49+** or newer. AnkiMobile and AnkiDroid are kept up to date via their app stores.
 
-### Sync to phone
+## Install on your device
 
-1. Import on desktop.
-2. Enable [AnkiWeb sync](https://docs.ankiweb.net/getting-started.html#video-tutorial) on desktop and mobile.
-3. Sync before studying on your phone.
+Download [`Python_Interview_2026.apkg`](https://github.com/tomaszs/python-interview-flashcards-free/releases/download/v2026.1/Python_Interview_2026.apkg), then follow the steps for your platform. More detail: [Anki importing guide](https://docs.ankiweb.net/importing.html).
+
+### Windows, macOS, or Linux
+
+1. Install [Anki](https://apps.ankiweb.net/).
+2. Download [`Python_Interview_2026.apkg`](https://github.com/tomaszs/python-interview-flashcards-free/releases/download/v2026.1/Python_Interview_2026.apkg).
+3. In Anki: **File → Import** and select the file (or open the downloaded file).
+4. Confirm the deck name **Python Interview 2026** and start with the intro card.
+
+### iPhone or iPad (AnkiMobile)
+
+1. Install [AnkiMobile](https://apps.apple.com/app/ankimobile-flashcards/id373493387) from the App Store.
+2. Download [`Python_Interview_2026.apkg`](https://github.com/tomaszs/python-interview-flashcards-free/releases/download/v2026.1/Python_Interview_2026.apkg) in Safari (or another browser).
+3. Open the downloaded file and choose **Open in Anki** / import into AnkiMobile.
+4. Start with the intro card. **Flag** cards you miss.
+
+### Android (AnkiDroid)
+
+1. Install [AnkiDroid](https://play.google.com/store/apps/details?id=com.ichi2.anki) from Google Play.
+2. Download [`Python_Interview_2026.apkg`](https://github.com/tomaszs/python-interview-flashcards-free/releases/download/v2026.1/Python_Interview_2026.apkg).
+3. Open the file from your downloads or use **Import** in AnkiDroid.
+4. Confirm the deck name **Python Interview 2026** and start studying.
+
+### Multiple devices (optional)
+
+If you use Anki on more than one device, you can use [AnkiWeb sync](https://docs.ankiweb.net/getting-started.html#video-tutorial) after importing. This is optional, not required for phone-only study.
 
 ## Deck contents
 
@@ -118,6 +150,10 @@ No. Redistribution is not permitted. Each person should download their own copy 
 ### Can I use this deck to train AI or build a competing product?
 
 No. Any AI-related use, extraction, derivatives, or commercial use requires a **separate written license** (minimum **USD $5000**). Contact [Summon The JSON](https://summonthejson.com/contact).
+
+### Can I download and study on my phone only?
+
+Yes. Install AnkiMobile or AnkiDroid, download the `.apkg` on your phone, and import it there. You do not need a computer.
 
 ### Does this replace LeetCode / system design practice?
 
