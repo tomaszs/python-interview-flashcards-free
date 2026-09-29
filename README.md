@@ -27,6 +27,7 @@
 - [About the creator](#about-the-creator)
 - [About Summon The JSON](#about-summon-the-json)
 - [More decks](#more-decks)
+- [Trademark notice](#trademark-notice)
 - [License](#license)
 - [Changelog](#changelog)
 
@@ -244,6 +245,12 @@ Tom builds interview flashcards to help developers **explain technical topics cl
 [Summon The JSON](https://summonthejson.com) is a learning brand for developers. It combines practical study tools with programming education: **physical flashcards**, printable decks, and free Anki decks like this one.
 
 The goal is simple: structured prep that fits real interview rooms. Questions you can practice daily, answers you can deliver out loud, and topics aligned with what hiring teams actually ask about python.
+
+## Trademark notice
+
+Anki® is a registered trademark of [Ankitects Pty Ltd](https://apps.ankiweb.net/). Summon The JSON and this repository are **independent** projects. We are **not affiliated with, endorsed by, or sponsored by** Ankitects Pty Ltd, AnkiWeb, AnkiMobile, AnkiDroid, or the official Anki application.
+
+This deck is compatible with Anki. It is published by Tom Smykowski under Summon The JSON, not by the Anki project.
 
 ## License
 
